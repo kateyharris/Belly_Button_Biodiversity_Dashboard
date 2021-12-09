@@ -1,6 +1,6 @@
 # Belly_Button_Biodiversity_Dashboard
 
-This assignment consists of four technical analysis deliverables:
+This assignment consists of four technical analysis deliverables using Javascript, HTML, and bootstrap styling:
 
 - _**Deliverable 1:**_ Create a Horizontal Bar Chart
 - _**Deliverable 2:**_ Create a Bubble Chart
