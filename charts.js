@@ -91,6 +91,7 @@ function init() {
           t: 75,
           pad: 4
         },
+        hovermode: "closest"
       };
       // 10. Use Plotly to plot the data with the layout. 
       Plotly.newPlot("bar", [barData], barLayout);
